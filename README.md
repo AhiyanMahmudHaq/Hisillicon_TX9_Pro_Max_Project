@@ -1,4 +1,4 @@
-<img width="573" height="562" alt="image" src="https://github.com/user-attachments/assets/f17a18c7-e672-4988-98f8-cd38869009e3" /># ARMX9ProMax_Project
+# ARMX9ProMax_Project
 Firstly, I must state that: 
 ### *1. I am not responsible for any damage that is caused to your TV box.*
 ### *2. You must figure out the hardware specifications of your TV box and then decide whether you can use this repository can help you install Armbian GNU/Linux.*
