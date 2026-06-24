@@ -14,8 +14,11 @@ Important links to documentation of the Allwinner H616 found on the motherboard/
 
 [Wikipedia link to what a Device Tree is](https://en.wikipedia.org/wiki/Devicetree)
 
+[Wikipedia link to Universal Serial Bus (USB) On-The-Go (OTG) cable, which is required for wired debugging](https://en.wikipedia.org/wiki/USB_On-The-Go)
+
+[Wikipedia link to what chainloading is](https://en.wikipedia.org/wiki/Chain_loading)
+
 [Linux kernel support for Allwinner H616](https://linux-sunxi.org/H616)
 
-[Android Open Source Project about the DTBO partition (Android 9)](https://source.android.com/docs/core/architecture/dto/compile)
+[Android Open Source Project (AOSP) about the DTBO partition (Android 9)](https://source.android.com/docs/core/architecture/dto/compile)
 
-[Wikipedia link to Universal Serial Bus (USB) On-The-Go (OTG) cable, which is required for wired debugging](https://en.wikipedia.org/wiki/USB_On-The-Go)
