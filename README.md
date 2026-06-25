@@ -14,9 +14,9 @@ Important links to documentation of the installation process as a whole:
 
 [Wikipedia link to what a Device Tree is](https://en.wikipedia.org/wiki/Devicetree)
 
-[Wikipedia link to Universal Serial Bus (USB) On-The-Go (OTG) cable, which is required for wired debugging](https://en.wikipedia.org/wiki/USB_On-The-Go)
-
 [Wikipedia link to what chainloading is](https://en.wikipedia.org/wiki/Chain_loading)
+
+[Wikipedia link to Universal Serial Bus (USB) On-The-Go (OTG) cable, which is required for wired debugging](https://en.wikipedia.org/wiki/USB_On-The-Go)
 
 [Linux kernel support for Allwinner H616](https://linux-sunxi.org/H616)
 
