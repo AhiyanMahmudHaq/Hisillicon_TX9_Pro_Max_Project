@@ -1,5 +1,5 @@
 # The Hisillicon TX9 Pro Max Project
-
+*named so because it is allegedly manufactured by Hisillicon*
 ## **Disclaimer**
 * **I am not responsible for any of the damages that may be inflicted to your device.** 
 * **The incorrect installation of an operating system (OS) on an embedded computer system may render it permanently unuseable, often referred to as *"bricking."***
