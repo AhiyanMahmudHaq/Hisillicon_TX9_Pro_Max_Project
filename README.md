@@ -17,4 +17,4 @@ This repository contains the full procedure of research, development and install
 
 ## Research
 
-The primary resource for learning how to build the customized variant of Armbian GNU/Linux for this exact TV box are Wikipedia pages which provide information about core concepts that are mandatory to understand AARCH64 architecture's system software.
+The primary resource for learning how to build the customized variant of Armbian GNU/Linux for this exact TV box are Wikipedia pages and documentaation from [linux-sunxi.org](linux-sunxi.org) which provide information about core concepts that are mandatory to understand AARCH64 architecture's system software.
