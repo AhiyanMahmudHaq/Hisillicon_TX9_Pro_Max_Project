@@ -1,4 +1,4 @@
-# The Hisillicon TX9 Pro Max Project
+# The Hisillicon TX9 Pro Max Linux Project
 
 *named so because it is allegedly manufactured by Hisillicon*
 
