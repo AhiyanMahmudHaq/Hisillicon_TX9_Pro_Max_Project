@@ -25,7 +25,8 @@ The primary resources are sourced from Wikipedia and Hisillicon's official websi
 [Bootloader](https://en.wikipedia.org/wiki/Bootloader),
 [Boot ROM](https://en.wikipedia.org/wiki/Boot_ROM),
 [Android TV OS](https://en.wikipedia.org/wiki/Android_TV),
-[eMMC](https://en.wikipedia.org/wiki/MultiMediaCard#eMMC),
+[eMMC](https://en.wikipedia.org/wiki/MultiMediaCard#eMMC)
+* Hisillicon Official Website
 [Hi3798MV310](https://www.hisilicon.com/en/products/smart-media/stb/hi3798mv310)
 
 
