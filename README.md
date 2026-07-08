@@ -19,6 +19,6 @@ This repository contains the full procedure of research, development and install
 
 ## Research
 
-The primary resources are sourced from Wikipedia and Hisillicon's official website which explicitly states SoC specifications for a similar variant of the chip in this TV box.
+The primary resources are sourced from Wikipedia and Hisillicon's official website (states SoC specifications for a similar variant of the chip in this TV box) as well as datasheets for other microchips found floating in the internet which explicitly state specifications.
 [Hi3798MV310](https://www.hisilicon.com/en/products/smart-media/stb/hi3798mv310)
 
