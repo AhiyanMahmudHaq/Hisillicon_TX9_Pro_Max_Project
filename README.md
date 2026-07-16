@@ -30,3 +30,4 @@ The primary resources are sourced from Wikipedia and Hisillicon's official websi
 [Hi3798MV310](https://www.hisilicon.com/en/products/smart-media/stb/hi3798mv310)
 
 
+!! This project is **temporarily** abandoned due to the Bangladesh Robot Olympiad coming up. I will not focus on this for as long as I stand in the Olympiad.
